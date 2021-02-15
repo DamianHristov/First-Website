@@ -1,0 +1,671 @@
+.container{
+width:100%;
+height:600px;
+position:relative;
+background-image: url(https://media.istockphoto.com/photos/corn-field-with-sun-in-greyscale-picture-id531802596);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#opacity_div{ 
+   position:absolute;
+   background:black;
+   height:100px;
+   width:80%;
+   top:0px;
+   padding-left:10%;
+   padding-right:10%;
+   opacity:0.5; 
+}
+
+.textCenter{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:white;
+  font-size:25pt;
+  background: #333;
+  text-align: center;
+  padding-top:0.5%;
+    width: fit-content;
+}
+
+
+.textCenter-2{
+    
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size:25pt;
+    background: #333;
+    padding-top:0.5%;
+    text-align: center;
+    text-align:justify;
+    width: fit-content;
+    
+   }
+
+#text-opasity{
+     position: absolute;
+     top:50%;
+    
+     transform: translate(-0%, -50%);
+    font-family:'Segoe UI';
+    font-weight: bold;
+    font-size: 20pt;
+color:white;
+
+ }
+ .div-position-button{
+         
+ 
+   position: absolute;
+
+     top:50%;
+     left:70.4270834%;
+     transform: translate(-50%, -50%);
+     width: fit-content;
+      border-style:hidden;
+
+        }
+       .button1:hover,
+       .button2:hover{
+        
+        border-width:2px;  
+    border-style:solid;
+    border-color:#4bcaff;
+        color:#4bcaff;
+            padding:8px;         
+        }
+  
+
+ .button1{
+        background-color: transparent;
+    color:white;
+    font-family:'Segoe UI';
+    font-weight: bold;
+    font-size: 10pt; 
+    border:0;
+     margin-right: 19px;
+} 
+
+  .container-2{
+width:100%;
+height:350px;
+position:relative;
+background-color:#4bcaff;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+      .Coffee-imgs{       
+    position: absolute;
+    background-repeat: no-repeat;    
+    height: auto;
+    top:40%;
+    transform: translate(-0%, -50%);
+   float:right;
+   
+      }
+      .wrap {
+        position:absolute;
+        padding-left:10%;
+        padding-right:10%;
+     width: 80%;
+     height: 100%;  
+
+ }
+      .text-container2{
+        position:absolute;
+    top:20%;
+    overflow:hidden;
+    transform: translate(-0%, -50%);
+    font-family:'Segoe UI';
+    font-weight: lighter;
+    font-size: 20pt;
+    color:white;
+    
+     }
+     .text-container4{
+        position: absolute;
+    top: 66%;
+    transform: translate(-0%, -50%);
+    color: white;
+   
+    font-size: 8pt;
+    padding-top: 1%;
+    width: fit-content;
+    text-overflow: ellipsis; 
+overflow: hidden; 
+white-space: nowrap;
+     }
+
+     .text-container3{
+        position:absolute;
+    top:53%;
+    overflow:hidden;
+    transform: translate(-0%, -50%);
+    font-family:'Segoe UI';
+    font-weight: bold;
+    font-size: 17pt;
+    color:white;
+    font-weight: bold;
+    
+     }
+
+.container_blue_field_x{
+      position:relative;
+         width:22%;
+   height:100%;
+   margin-right:3%;
+   float:left;
+   overflow: hidden;
+  }
+ .container-3{
+width:100%;
+height:650px;
+position:relative;
+background-color:white;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.container3_text_1{
+    position:absolute;
+    top:50%;
+    overflow:hidden;
+    transform: translate(-0%, -50%);
+    font-family:'Segoe UI';
+    font-weight: lighter;
+    font-size: 20pt;
+    color:black;
+ 
+}
+.opacity2{
+    position: relative;;
+   
+   height:15.38%;
+   width:80%;
+   top:0px;
+   padding-left:10%;
+   padding-right:10%;
+   opacity:0.5;
+   
+}
+.div-position-button{
+         position: absolute;
+           top:50%;
+           left:70.4270834%;
+           transform: translate(-50%, -50%);
+           width: fit-content;
+            border-style:hidden;
+      
+              }
+              .button2{
+        background-color: transparent;
+    color:black;
+    font-family:'Segoe UI';
+    font-weight: bold;
+    font-size: 10pt; 
+    border:0;
+     margin-right: 19px;} 
+ .wrap-1 {
+        position:relative;
+        
+        padding-left:10%;
+        padding-right:10%;
+     width: 80%;
+     height: 80.38%;  
+
+ }
+
+ .container_white_field_x{
+      position:relative;
+      
+   width:22%;
+margin-top:3%;
+margin-bottom:0%;
+   height:42%;
+   margin-right:3%;
+   float:left;
+   overflow: hidden;
+   
+  
+  }
+  .container_white_field_x2{
+
+  
+    position: relative;
+    width: 47%;
+    height: 100%;
+    margin-right: 3%;
+    float: left;
+    overflow: hidden;
+}
+
+  
+  .portfolio-img{
+    width:100%;
+    height:100%;
+  
+  
+   
+
+  }
+
+  .portfolio-img:hover{
+      border:2px #2891e8;
+  
+opacity:0.5;
+  }
+  .container-4{
+      position:relative;
+width:100%;
+height:400px;
+background-color:#515f67;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+  }
+  .span_white{
+    text-underline-position: under
+    ;text-decoration:underline;
+    text-decoration-color: white;
+
+  }
+  .span_black{
+    text-underline-position: under
+    ;text-decoration:underline;
+    text-decoration-color: black;
+
+  }
+
+   .text-container_4 {
+    position: absolute;
+    top: 46%;
+    transform: translate(-0%, -50%);
+    color: white;
+    font-size: 10pt;
+    padding-top: 1%;
+    width: fit-content;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+font-family: 'Segoe UI';
+    font-weight: lighter;
+}
+.container-4_iframe{
+   
+    transform:translate(-0%,50%);
+
+}
+.container-4_button{
+         
+ 
+         position: absolute;
+         top:70%;
+           transform: translate(0%, -50%);     
+            border-width:2px;
+            border-style:solid;
+            border-color:black;
+            color:black;
+       background-color:#515f67;
+       padding:7px 33px 7px 33px;
+       font-family:'Segoe UI';
+    
+              }
+              .container-4_button:hover{
+            border-color:#4bcaff;
+            color:#4bcaff;
+            padding:7px 33px 7px 33px;
+              }
+              .video_div {
+                   position: relative;
+    width: 100%;
+    height: 100%;
+    
+   
+}
+.video-iframe {
+   
+    width: 100%;
+    height: 60%;
+    transform: translate(0%,30%);
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+
+}
+ .container-5{
+width:100%;
+height:200px;
+position:relative;
+background-color:#4bcaff;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.text-container-5 {
+    position: absolute;
+    top: 46%;
+    transform: translate(-0%, -50%);
+    color: white;
+    font-size: 19pt;
+    width: 90%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+}
+    .span-container5{
+ font-weight:bold;
+ color:white;
+
+    }
+ .twit_img{
+
+     
+    position: relative;
+    background-repeat: no-repeat;
+    top: 20%;
+   
+    float: right;
+    margin-right: 3%;
+   
+   
+ }
+ .container-6{
+
+    width:100%;
+height:350px;
+position:relative;
+background-image: url(container6.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+ }
+.container-6-text{
+    position: absolute;
+    top: 36%;
+    transform: translate(-0%, -50%);
+    color: white;
+    font-size: 10pt;
+    padding-top: 1%;
+    width: fit-content;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+}
+.container-6-img{
+    position: relative;
+    background-repeat: no-repeat;
+    top: 50.3%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    padding: 8px;
+    float: left;
+    margin-right: 3%;
+    height: 5%;
+
+}
+.container-7{
+width:100%;
+height:250px;
+position:relative;
+background-color:white;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.container-7-title{
+    position: absolute;
+    top: 20%;
+    overflow: hidden;
+    transform: translate(-0%, -50%);
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+    font-size: 20pt;
+    color: black;
+}
+.container-7-text{
+    position: absolute;
+    top: 46%;
+    transform: translate(-0%, -50%);
+    color: black;
+    font-size: 19pt;
+    width: 80%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+}
+.container-7-small-text{position: absolute;
+    top: 76%;
+    transform: translate(-0%, -50%);
+    color: #4bcaff;
+    font-size:10.4pt;
+    width: fit-content;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+    }
+    .container-7-quotation{
+    position: relative;
+    top: 25%;
+    float:right;
+    overflow: hidden;
+    transform: translate(-0%, -50%);
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+    font-size: 49pt;
+    color: black;
+margin:0%;
+}
+body{
+        margin:0;
+        padding:0;
+      
+    }
+   .container-8{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    background-image: url(last_container.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+ 
+
+
+.label1{
+    color: white;
+    font-size: 10pt;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+    transform: translate(0%, 50%);
+    position: absolute;
+    float: left;
+    top: 17%;
+}
+
+
+.input1{
+    position: relative;
+    top: 27%;
+    float: left;
+    width: 40%;
+    border-width: 2px;
+    margin-right: 10%;
+    padding: 1%;
+    border-style: solid;
+    border-color: white;
+    transform: translate(0%, -50%);
+    background: transparent;
+    color: white;
+    font-size: 17pt;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+}
+
+.label2{
+    position: absolute;
+    color: white;
+    font-size: 10pt;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+    transform: translate(0%, 50%);
+    float: left;
+    left: 0%;
+    top: 33%;
+}
+
+
+.input2{
+    position: relative;
+    top: 34%;
+    float: left;
+    width: 40%;
+    margin-right: 10%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    transform: translate(0%, -50%);
+    background: transparent;
+    color: white;
+    font-size: 17pt;
+    padding: 1%;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+}
+.label3{
+    position: absolute;
+    color: white;
+    font-size: 10pt;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+    transform: translate(0%, 50%);
+    float: left;
+    left: 0%;
+    top: 49.5%;
+
+}
+.container-8-text-x2{
+    position: relative;
+    float: right;
+    top: 35%;
+    transform: translate(-0%, -50%);
+    width: 50%;
+    color: white;
+    font-size: 10pt;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: 'Segoe UI';
+    margin: 0%;
+    font-weight: lighter;
+}
+
+
+form{
+    position: absolute;
+    width: 80%;
+    float: left;
+    height: 100%;
+}
+.text-container-8-headline{
+
+    position:absolute;
+    top:10%;
+    overflow:hidden;
+    transform: translate(-0%, -50%);
+    font-family:'Segoe UI';
+    font-weight: lighter;
+    font-size: 20pt;
+    color:white;
+}
+textarea{
+    position: relative;
+    top: 49%;
+    float: left;
+    width: 97.3%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    transform: translate(0%, -50%);
+    background: transparent;
+    height: 20%;
+    color: white;
+    font-size: 17pt;
+    padding: 1%;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+}
+.input3{
+    position: absolute;
+    top: 90%;
+    left: 0%;
+    width: 33%;
+    transform: translate(0%, -50%);
+    background-color: #4bcaff;
+    color: white;
+    font-size: 10pt;
+    padding: 2%;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+    border: none;
+}
+   
+.container-9{
+    width:100%;
+height:150px;
+position:relative;
+background-color:#353f47;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.button_container-9-div{
+    position:relative;
+   
+    top:50%;
+    float:left
+}
+.button-container-9{
+    background-color: transparent;
+    color:#515f67;
+    font-family:'Segoe UI';
+    font-weight: bold;
+    font-size: 10pt; 
+    border-right: 1px solid #515f67;
+    border-top:none;
+    border-left:none;
+    border-bottom:none;
+}
+.button-container-9:hover{
+color:#4bcaff;
+margin:0%;
+margin-right: 19px;
+}
+.last-class{
+position:relative;
+float:right;
+    color:#515f67;
+    font-family:'Segoe UI';
+    font-weight: bold;
+    font-size: 10pt; 
+    top:50%;
+    margin:0%;
+}
